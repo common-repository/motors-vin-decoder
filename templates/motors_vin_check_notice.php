@@ -1,0 +1,1 @@
+<div class="motors_vin_check_notice"><img src="<?php echo esc_url( plugins_url( 'assets/img/notice_info.svg', dirname(__FILE__) ) ) ?> "><p><?php echo ($vin_notice); ?></p></div>

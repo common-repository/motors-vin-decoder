@@ -1,0 +1,361 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors Vin Decoder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-03 11:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: includes/functions.php:87
+msgid " Detailed Vehicle History"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:160
+msgid "1 year"
+msgstr ""
+
+#: includes/functions.php:355
+#: templates/stm_auto_specification_widget_view.php:152
+#: templates/stm_auto_history_shortcode_view.php:130
+#: templates/stm_auto_history_widget_view.php:107
+msgid "and try again"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:119
+msgid "Annual"
+msgstr ""
+
+#: templates/stm_auto_complete_settings_page.php:34
+msgid "API key"
+msgstr ""
+
+#: templates/stm_auto_complete_settings_page.php:22
+msgid "API method"
+msgstr ""
+
+#: templates/stm_auto_specification_widget_view.php:11
+#: templates/stm_auto_history_shortcode_view.php:9
+#: templates/stm_auto_complete_template.php:10
+msgid "APPLY"
+msgstr ""
+
+#: templates/stm_auto_complete_admin_page.php:9
+msgid "Apply"
+msgstr ""
+
+#: templates/stm_auto_complete_settings_page.php:14
+#: templates/stm_auto_complete_settings_history_page.php:12
+msgid "Back"
+msgstr ""
+
+#: includes/classes/STM_History_Widget.php:34
+#: includes/classes/STM_Full_Report_WP_Widget.php:59
+msgid "Button Title:"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:130
+msgid "Clearvin.com"
+msgstr ""
+
+#: templates/stm_auto_history_widget_view.php:107
+msgid "close"
+msgstr ""
+
+#: elementor/widgets/motors-vin-decoders.php:86
+msgid "Content"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:110
+msgid "Databases of the Ministry of Transportation of Israel"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:39
+msgid "Developer Oriented"
+msgstr ""
+
+#: templates/stm-admin-header.php:13
+msgid "Doc"
+msgstr ""
+
+#: templates/stm_auto_specification_widget_view.php:9
+#: templates/stm_auto_complete_admin_page.php:7
+#: templates/stm_auto_complete_template.php:8
+msgid "Enter VIN...."
+msgstr ""
+
+#: templates/stm_auto_specification_widget_view.php:4
+#: templates/stm_auto_history_shortcode_view.php:6
+msgid "Enter your VIN to check vehicle details"
+msgstr ""
+
+#: templates/stm_auto_complete_admin_page.php:3
+#: templates/stm_auto_complete_template.php:3
+msgid "Enter your VIN to Import vehicle details"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:149
+msgid "Get now"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:14
+msgid "Installation"
+msgstr ""
+
+#: includes/classes/Vin_Decoder.php:42
+msgid "Keep empty"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:180
+msgid "Last Update:"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:110
+msgid "Learn more."
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:124
+#: templates/stm_auto_complete_go_pro.php:160
+msgid "Lifetime"
+msgstr ""
+
+#: templates/stm_auto_complete_settings_page.php:29
+#: templates/stm_auto_complete_settings_history_page.php:28
+msgid "Make Default"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:49
+msgid "Market-check"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:34
+msgid "Most Popular"
+msgstr ""
+
+#. Name of the plugin
+#: templates/motors_vin_check_header_button.php:3
+msgid "Motors Vin Decoder"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Motors VIN Decoder is free plugin to decode your vehicle VIN and check VIN "
+"history (mileage/odometer, service records, road accidents and other issues)."
+" The data provided by third party providers and government authorities."
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:102
+msgid "Motors VIN Decoder WordPress Plugin"
+msgstr ""
+
+#: elementor/widgets/motors-vin-decoders.php:44
+msgid "Motors Vindecoder Input"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:28
+msgid "National Highway Traffic Safety Administration"
+msgstr ""
+
+#: includes/providers/Nhtsa_Check_Decoder.php:87
+msgid "NHSTA"
+msgstr ""
+
+#: includes/providers/Nhtsa_Check_Decoder.php:110
+msgid "Nhtsa Api options"
+msgstr ""
+
+#: includes/vin-decoder-conf.php:36
+msgid "Notice for VIN Modal windows"
+msgstr ""
+
+#: templates/stm_auto_complete_settings_history_page.php:19
+msgid "Options"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:142
+msgid "per year"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:117
+msgid "Pricing"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:46
+#: templates/stm_auto_complete_settings.php:66
+#: templates/stm_auto_complete_settings.php:86
+#: templates/stm_auto_complete_settings.php:107
+#: templates/stm_auto_complete_settings.php:127
+#: templates/stm_auto_complete_settings.php:157
+#: templates/stm_auto_complete_settings.php:176
+msgid "Pro"
+msgstr ""
+
+#: templates/stm_auto_complete_admin_page.php:17
+msgid "Provider API Settings"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:35
+#: templates/stm_auto_complete_settings.php:56
+#: templates/stm_auto_complete_settings.php:77
+#: templates/stm_auto_complete_settings.php:97
+#: templates/stm_auto_complete_settings.php:118
+#: templates/stm_auto_complete_settings.php:137
+#: templates/stm_auto_complete_settings.php:167
+#: templates/stm_auto_complete_settings.php:186
+msgid "Settings"
+msgstr ""
+
+#: includes/vin-decoder-conf.php:7
+msgid "Show VIN Check button in header"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:27
+msgid "Single Site"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: templates/stm-admin-header.php:10
+msgid "Support"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:196
+msgid "Tested up to:"
+msgstr ""
+
+#: templates/stm_auto_history_shortcode_view.php:14
+#: templates/stm_auto_complete_admin_page.php:11
+#: templates/stm_auto_complete_template.php:15
+msgid "The VIN entered is invalid. Please check and try again."
+msgstr ""
+
+#: templates/stm_auto_complete_admin_page.php:14
+msgid "To use this option, you need to configure"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:38
+msgid "Up to 25 Sites"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:33
+msgid "Up to 5 Sites"
+msgstr ""
+
+#: templates/stm-admin-header.php:16
+msgid "Upgrade"
+msgstr ""
+
+#: includes/functions.php:86
+msgid "Vehicle Specifications"
+msgstr ""
+
+#: includes/functions.php:80
+msgid "Vehicle Vin Report"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:169
+msgid "Version:"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:174
+msgid "View Changelog"
+msgstr ""
+
+#: includes/classes/STM_Full_Report_WP_Widget.php:17
+#: vc/templates/stm_auto_history_template.php:4
+msgid "VIEW VIN REPORT"
+msgstr ""
+
+#: includes/classes/STM_Full_Report_WP_Widget.php:29
+#: vc/templates/stm_auto_history_template.php:15
+msgid "VIN"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:70
+#: templates/stm_auto_complete_settings.php:160
+msgid "Vin Audit"
+msgstr ""
+
+#: includes/vin-decoder-conf.php:16 includes/vin-decoder-conf.php:31
+#: includes/vin-decoder-conf.php:46
+#: templates/motors_vin_check_mobile_menu.php:4
+msgid "VIN Check"
+msgstr ""
+
+#: includes/vin-decoder-conf.php:21
+msgid "VIN Check Page"
+msgstr ""
+
+#: templates/stm_auto_specification_widget_view.php:2
+#: templates/stm_auto_history_shortcode_view.php:3
+#: templates/stm_auto_complete_template.php:1
+msgid "Vin Decoder"
+msgstr ""
+
+#: templates/stm_auto_history_widget_view.php:20
+msgid "Vin History"
+msgstr ""
+
+#: templates/stm_auto_specification_widget_view.php:32
+msgid "Vin Specification"
+msgstr ""
+
+#: templates/motors_vin_check_header_button.php:4
+msgid "Vin-Check"
+msgstr ""
+
+#: templates/stm_auto_complete_settings_history_page.php:10
+msgid "Vin-Decoder History Options"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:13
+msgid "Vin-Decoder History Providers"
+msgstr ""
+
+#: templates/stm_auto_complete_settings_page.php:12
+#: templates/stm_auto_complete_settings_page.php:19
+msgid "Vin-Decoder Specification Options"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:11
+msgid "Vin-Decoder Specification Providers"
+msgstr ""
+
+#: templates/stm_auto_complete_settings.php:90
+#: templates/stm_auto_complete_settings.php:179
+msgid "VinDecoder.eu"
+msgstr ""
+
+#: includes/functions.php:355
+#: templates/stm_auto_specification_widget_view.php:152
+#: templates/stm_auto_history_shortcode_view.php:130
+#: templates/stm_auto_history_widget_view.php:107
+msgid "Whoops, looks like something went wrong. Please"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:188
+msgid "Wordpress Version:"
+msgstr ""
+
+#: templates/stm_auto_complete_go_pro.php:161
+#, php-format
+msgid ""
+"You get <a href=\"%1$s\"><span %2$s>1 year</span> updates and support</a> "
+"from the date of purchase. We offer 30 days Money Back Guarantee based on <a "
+"href=\"%1$s\">Refund Policy</a>."
+msgstr ""
